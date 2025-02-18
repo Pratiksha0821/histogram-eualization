@@ -1,1 +1,2 @@
 # histogram-eualization
+EXPERIMENT 3 : HISTROGRAM EQUALIZATION
